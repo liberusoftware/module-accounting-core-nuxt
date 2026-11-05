@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-core-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-core",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-core-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-core.md",
+  "presentationPlan": "projects/accounting/nuxt/accounting-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
